@@ -1,0 +1,9 @@
+html {
+    font-size: 2vh;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.timer {
+    color: red;
+    text-align: center;
+}
